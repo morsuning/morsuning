@@ -1,16 +1,12 @@
 ### Hi there 👋
 
-A Golang && Java && Rust Developer
+There is a Golang && Java && Rust Developer
 
-I'm interested in
-
-**Cloud Native**
-
-**Distributed Systems about Storage**
+I'm interested in **Cloud Native** and **Distributed Systems about Storage**
 
 My vision is to use automation and intelligence to liberate humans from labor!
 
-The three core things I focus on are software, data and intelligence.
+The three core things I focus on are software, data and intelligence
 
 <!--
 **morsuning/morsuning** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
