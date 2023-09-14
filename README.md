@@ -2,7 +2,7 @@
 
 There is a Golang && Java && Rust Developer
 
-I'm interested in **Cloud Native** and **Distributed Systems about Storage**
+I'm interested in **Cloud Native** and **Distributed Systems**
 
 My vision is to use automation and intelligence to liberate humans from labor!
 
