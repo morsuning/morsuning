@@ -21,5 +21,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsuning&layout=compact&theme=default" />
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=morsuning" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=morsuning" />
+<img src="https://github-readme-stats.vercel.app/api?username=morsuning"/>
