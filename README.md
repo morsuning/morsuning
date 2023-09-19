@@ -4,8 +4,6 @@ There is a Golang && Java && Rust Developer
 
 I'm interested in **Cloud Native** and **Distributed Systems**
 
-My vision is to use automation and intelligence to liberate humans from labor!
-
 The three core things I focus on are software, data and intelligence
 
 <!--
