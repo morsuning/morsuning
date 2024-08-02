@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-There is a Golang && Java && Rust Developer
+There is a Golang && Rust Developer
 
-I'm interested in **Cloud Native** and **Distributed Systems**
+I'm interested in **System/Infra**
 
 The three core things I focus on are software, data and intelligence
 
