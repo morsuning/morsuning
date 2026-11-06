@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-There is a Golang && Java && Rust && Python Developer
+There is a developer with a wide range of interests
 
 I'm a back-end engineer, but I'm interested in **System/Infra** : Storage & Cloud Native
 
